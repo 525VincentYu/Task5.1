@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="agent">
+        <item>BBC NEWS</item>
+        <item>7NEWS</item>
+        <item>9NEWS</item>
+        <item>THE AGE</item>
+        <item>ABC NEWS</item>
+        <item>VOA</item>
+    </string-array>
+    <string-array name="agent1">
+        <item>BBC NEWS</item>
+        <item>7NEWS</item>
+        <item>9NEWS</item>
+    </string-array>
+    <string-array name="agent2">
+        <item>THE AGE</item>
+        <item>ABC NEWS</item>
+        <item>VOA</item>
+    </string-array>
+    <string-array name="content">
+        <item>Ukrainian residents in an occupied city have been hailed for their bravery and “amazing courage” as Russia reacts with “brutal” force.</item>
+        <item>He’s called his ex-wife a “c**t” and a “stupid f**k”, but the internet is calling for “justice” for Johnny Depp – and there’s an obvious reason why.</item>
+        <item>Treasurer Josh Frydenberg has refused to show up for a debate in his electorate claiming the platform was skewed against him.</item>
+        <item>Prime Minister Scott Morrison is sweating over potential interest rate hikes as inflation spikes to its highest level in more than two decades.</item>
+        <item>A 59-year-old Brisbane man has been killed in a fatal crash during the Targa Tasmania tarmac rally, local police have confirmed.</item>
+        <item>A witness in Ben Roberts-Smith’s defamation lawsuit has been bailed after being arrested following an alleged altercation with police.</item>
+    </string-array>
+    <string-array name="content1">
+        <item>Ukrainian residents in an occupied city have been hailed for their bravery and “amazing courage” as Russia reacts with “brutal” force.</item>
+        <item>He’s called his ex-wife a “c**t” and a “stupid f**k”, but the internet is calling for “justice” for Johnny Depp – and there’s an obvious reason why.</item>
+        <item>Treasurer Josh Frydenberg has refused to show up for a debate in his electorate claiming the platform was skewed against him.</item>
+
+    </string-array>
+    <string-array name="content2">
+        <item>Prime Minister Scott Morrison is sweating over potential interest rate hikes as inflation spikes to its highest level in more than two decades.</item>
+        <item>A 59-year-old Brisbane man has been killed in a fatal crash during the Targa Tasmania tarmac rally, local police have confirmed.</item>
+        <item>A witness in Ben Roberts-Smith’s defamation lawsuit has been bailed after being arrested following an alleged altercation with police.</item>
+
+    </string-array>
+    <string-array name="title">
+        <item>‘The worst’: Russia reacts with ‘brutal’ act</item>
+        <item>Stunning turnaround in Johnny Depp trial</item>
+        <item>Frydenberg fails to front for debate</item>
+        <item>ScoMo sweats election rate rise</item>
+        <item>Aussie man dies in tragic sporting event</item>
+        <item>Ex-SAS soldier and BRS witness charged</item>
+    </string-array>
+</resources>
